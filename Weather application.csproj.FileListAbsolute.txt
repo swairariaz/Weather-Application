@@ -1,0 +1,26 @@
+D:\VS projects\Weather application\bin\Debug\net8.0\appsettings.Development.json
+D:\VS projects\Weather application\bin\Debug\net8.0\appsettings.json
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.staticwebassets.runtime.json
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.exe
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.deps.json
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.runtimeconfig.json
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.dll
+D:\VS projects\Weather application\bin\Debug\net8.0\Weather application.pdb
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.AssemblyInfoInputs.cache
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.AssemblyInfo.cs
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.csproj.CoreCompileInputs.cache
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.MvcApplicationPartsAssemblyInfo.cache
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets\msbuild.Weather application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets\msbuild.build.Weather application.props
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weather application.props
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weather application.props
+D:\VS projects\Weather application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VS projects\Weather application\obj\Debug\net8.0\scopedcss\bundle\Weather application.styles.css
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.dll
+D:\VS projects\Weather application\obj\Debug\net8.0\refint\Weather application.dll
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.pdb
+D:\VS projects\Weather application\obj\Debug\net8.0\Weather application.genruntimeconfig.cache
+D:\VS projects\Weather application\obj\Debug\net8.0\ref\Weather application.dll

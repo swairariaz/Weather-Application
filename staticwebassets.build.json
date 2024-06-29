@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aQsdulC6xx4U1L4+EBitouKd9eqwL7YsPG7NIUFqONs=",
+  "Source": "Weather application",
+  "BasePath": "_content/Weather application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather application\\wwwroot",
+      "Source": "Weather application",
+      "ContentRoot": "D:\\VS projects\\Weather application\\wwwroot\\",
+      "BasePath": "_content/Weather application",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VS projects\\Weather application\\wwwroot\\index.html",
+      "SourceId": "Weather application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS projects\\Weather application\\wwwroot\\",
+      "BasePath": "_content/Weather application",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\VS projects\\Weather application\\wwwroot\\script.js",
+      "SourceId": "Weather application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS projects\\Weather application\\wwwroot\\",
+      "BasePath": "_content/Weather application",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\VS projects\\Weather application\\wwwroot\\style.css",
+      "SourceId": "Weather application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS projects\\Weather application\\wwwroot\\",
+      "BasePath": "_content/Weather application",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
